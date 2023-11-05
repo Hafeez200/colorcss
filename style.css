@@ -1,0 +1,20 @@
+/* color name*/
+/*h1{
+    color: aqua;
+}*/
+/* HEX code */
+/*h1{
+    color: #222332;
+}*/
+/* RGB*/
+h1{
+    color: rgb(90,23,75);
+}
+/*  background color*/
+body{
+    background-color: wheat;
+    color: red;
+}
+h2{
+    background-color: #d7d8e423 ;
+}
